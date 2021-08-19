@@ -12,6 +12,8 @@ Open time-synced lyrics (LRC) database.
 [al:Album]
 ```
 
+The title, artist and album should match the song info in iTunes library.
+
 ## Structure
 
 LRC files are stored under [lyrics](https://github.com/lujjjh/lyrics/tree/main/lyrics).
